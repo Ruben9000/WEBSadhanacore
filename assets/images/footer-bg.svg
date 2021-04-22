@@ -1,9 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.193" height="1054.854" viewBox="0 0 1920.193 1054.854">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#8C52FF"/>
-      <stop offset="1" stop-color="#FA5181"/>
+      <stop offset="0" stop-color="#50225B"/>
+      <stop offset="1" stop-color="#821F80"/>
     </linearGradient>
+       <clipPath id="clip-path">
+      <path id="Path_199" data-name="Path 199" d="M-533.031,278.516s95.269,204.193,401.21,161.147,419.656-32.1,544.188,96.892,343.977,107.54,572.909,67.066,360.19,68.158,401.79,142.968c.041-2.4-.074-1075.621-.074-1075.621l-1920,.011Z" transform="translate(533 329)" fill="url(#linear-gradient)"/>
+    </clipPath>
   </defs>
   <g id="Group_111" data-name="Group 111" transform="translate(0.13 -6328.591)">
     <path id="Path_195" data-name="Path 195" d="M1367.063,374.808s-85.855-337.77-386.677-270.232-439.4,0-538.268-145.16-352-126.953-574.629-79.205S-434.941-141.322-553.13-300.409c0,.029.052,1054.854.052,1054.854H1367.047Z" transform="translate(553 6629)" opacity="0.11" fill="url(#linear-gradient)"/>
